@@ -1,0 +1,28 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+    
+hr{
+    color:#FCB705;
+    width:50%;
+    height:2px !important;
+    
+}
+.artf{
+    width:100x;
+    height:100px;
+}
+p{
+    text-align: justify;
+    font-size: 10px;
+}
+button{
+    height:24px;
+    width:20%;
+    background:black;
+    text-align: center;
+    color:white;
+    
+}
